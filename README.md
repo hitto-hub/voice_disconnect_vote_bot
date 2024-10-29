@@ -1,1 +1,3 @@
-# このbotは世界を救う
+# voice_disconnect_vote_bot
+
+プライバシーの理由からvoicechatにいるメンバーを取得できなかったので断念
